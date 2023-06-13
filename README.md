@@ -1,3 +1,5 @@
+
+Computer Engineering Student
 - 👋 Hi, I’m @SevvalNur
 - 👀 I’m interested in Cloud Enginnering and Machine Learning
 - 🌱 I’m currently learning C++ and JavaScript
